@@ -1,5 +1,6 @@
 📅 Smart Scheduler
 is a simple text-based exam scheduling system that allows users to manage exams efficiently. This mini project helps users add, view, edit, and delete exam entries through a basic CRUD interface.
+
 by Abby Gayle P. Senado, Hanna Cindy Ramirez, Jessa Mae Salazar, & Lance Lorenzo Asumbrado
 
 Features:
